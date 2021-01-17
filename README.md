@@ -12,7 +12,7 @@
 
   ```
   npm i -g yarn
-  mkdir happybills
+  mkdir project-template
   yarn set version berry
   yarn set version latest
   yarn init
