@@ -1,5 +1,5 @@
 {
-  "name": "project",
+  "name": "project-template",
   "dependencies": {
     "express": "^4.17.1",
     "htm": "^3.0.4",
